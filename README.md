@@ -50,7 +50,7 @@ I'm **Khanh Nguyen**, I'm studying at WGU (2nd term) for B.S of Software Enginee
 
 - **Full Stack Business Management:** Collaborated with a team to develop a comprehensive full stack business management system including employee management system like clock in/clock out, time tracking and more. A kanban board features including task editing, adding, deleting, renaming, and drag-and-drop functionality
 
-- **Full stack social media app:(https://github.com/gkn19/Coder_Community_FE)** Designed and implemented backend services for commenting, friend requesting, posting, reacting. Implemented role-based authorization. Designed and manage front end using Redux for easier management and debugging. Key features included personal profile customization, friendship functionality like adding, canceling, and viewing friend lists, content sharing like uploading pictures, commenting, and editing posts, liking and disliking posts.
+- **[Full stack social media app](https://github.com/gkn19/Coder_Community_FE):** Designed and implemented backend services for commenting, friend requesting, posting, reacting. Implemented role-based authorization. Designed and manage front end using Redux for easier management and debugging. Key features included personal profile customization, friendship functionality like adding, canceling, and viewing friend lists, content sharing like uploading pictures, commenting, and editing posts, liking and disliking posts.
 
 ## 🎯 Career Aspirations
 
