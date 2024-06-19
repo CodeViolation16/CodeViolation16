@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-I'm **Khanh Nguyen**, I'm studying at WGU (2nd term) for B.S of Software Engineering, I enjoy building teams of talented devs to collaborate on projects or participate in hackathons. I enjoy working in a team environment. Mostly self taught. Learned a lot reading the internet, and just playing around. Learning Flutter.
+I'm **Khanh Nguyen**, I'm studying at WGU (2nd term) for B.S of Software Engineering, I enjoy building teams to collaborate on projects or participate in hackathons. I enjoy working in a team environment. Mostly self taught. Learned a lot reading the internet, and just playing around. Learning Flutter.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anhoop89&color=green)
 
