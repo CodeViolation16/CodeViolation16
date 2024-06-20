@@ -54,7 +54,7 @@ I'm **Khanh Nguyen**, I'm studying at WGU (2nd term) for B.S of Software Enginee
 
 ## 🎯 Career Aspirations
 
-## My goal currently is to work in a team of talented engineers. Build a cool internal tooling to enhance developer's experience, or something that help tech easier for non tech people, some type of abstraction.
+## My goal currently is to work in a team of talented engineers. Build a cool internal tooling for devoplers, or something that help tech easier for non tech people, some low level system stuff, not the surface full stack react app kitty.
 
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/khanh-nguyen-b66723311/">
