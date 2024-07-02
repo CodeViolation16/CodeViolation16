@@ -47,10 +47,14 @@ I'm **Khanh Nguyen**, I'm studying at WGU for B.S of Software Engineering, I enj
 ## 🌟 Notable Projects
 
 - **[Full Stack Tennis Court Booking System](https://github.com/gkn19/TennisBookingApp_FE):** An online booking system to replace the manual process of checking court availability via phone calls to the front desk. Key features included booking and canceling reservations, admin announcements, email confirmations, user account creation and login, password resets, and comprehensive admin management tools.The app provides a convenient and efficient solution for managing tennis court bookings, benefiting both clubs and users by saving time and streamlining the booking process.
+- Challenges: choosing the right front-end design, building front-end components from scratch instead of using a front-end library, transferring datas between front-end components, implementing role-based authorization, protecting data between the client and server.
 
 - **[Full Stack Business Management](https://github.com/TeamTenacity01/Mind-Palace):** Collaborated with a team to develop a comprehensive full stack business management system including employee management system like clock in/clock out, time tracking and more. A kanban board features including task editing, adding, deleting, renaming, and drag-and-drop functionality
 
 - **[Full stack social media app](https://github.com/gkn19/Coder_Community_FE):** Designed and implemented backend services for commenting, friend requesting, posting, reacting. Implemented role-based authorization. Designed and manage front end using Redux for easier management and debugging. Key features included personal profile customization, friendship functionality like adding, canceling, and viewing friend lists, content sharing like uploading pictures, commenting, and editing posts, liking and disliking posts.
+
+- **TikTok-Hackathon:** Implementing an AI feature specifically tailored to the products sellers are showcasing in their videos. This AI is accessible via a button that helps users learn more about the products. We also built many more helpful front end features. We drew inspiration from other platforms like Amazon and eBay and implemented a system similar to TikTok's.
+- We faced challenges in selecting the right features to work on. As we progressed, our ideas improved, and our understanding as a team became clearer. We divided tasks among team members, providing support when bugs arose. We communicated our tasks daily, ensuring everyone was aware of each other's progress. We also made efforts to keep team members accountable and productive.
 
 ## 🎯 Career Aspirations
 
