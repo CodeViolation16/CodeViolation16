@@ -53,7 +53,7 @@ Challenges: choosing the right front-end design, building front-end components f
 
 - **[Full stack social media app](https://github.com/gkn19/Coder_Community_FE):** Designed and implemented backend services for commenting, friend requesting, posting, reacting. Implemented role-based authorization. Designed and manage front end using Redux for easier management and debugging. Key features included personal profile customization, friendship functionality like adding, canceling, and viewing friend lists, content sharing like uploading pictures, commenting, and editing posts, liking and disliking posts.
 
-- **TikTok-Hackathon:** Implementing an AI feature specifically tailored to the products sellers are showcasing in their videos. This AI is accessible via a button that helps users learn more about the products. We also built many more helpful front end features. We drew inspiration from other platforms like Amazon and eBay and implemented a system similar to TikTok's.
+- **TikTok-Tech Hackathon:** Implementing an AI feature specifically tailored to the products sellers are showcasing in their videos. This AI is accessible via a button that helps users learn more about the products. We also built many more helpful front end features. We drew inspiration from other platforms like Amazon and eBay and implemented a system similar to TikTok's.
 Challenges: We faced challenges in selecting the right features to work on. As we progressed, our ideas improved, and our understanding as a team became clearer. We divided tasks among team members, providing support when bugs arose. We communicated our tasks daily, ensuring everyone was aware of each other's progress. We also made efforts to keep team members accountable and productive.
 
 
