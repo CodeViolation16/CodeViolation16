@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-I'm **Khanh Nguyen**, I'm studying at WGU for B.S of Software Engineering, Mostly self taught. Learned a lot reading the internet, and just playing around. Learning Flutter.
+ Mostly self taught. Learned a lot reading the internet, and just playing around.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anhoop89&color=green)
 
