@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-WGU Bachelor's of CS Alumni, Mostly self taught. Learned a lot reading the internet, and just playing around.
+WGU Bachelor's of CS, Mostly self taught. Learned a lot reading the internet, and just playing around.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anhoop89&color=green)
 
