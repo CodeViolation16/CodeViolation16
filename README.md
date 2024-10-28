@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-WGU Bachelor's of CS, Mostly self taught. Learned a lot reading the internet, and just playing around.
+Absolute beast of a Swift engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anhoop89&color=green)
 
